@@ -7,7 +7,7 @@
         <h1 class="title">
           Welcome
         </h1>
-        <div class="links">
+        <!-- <div class="links">
           <a
             href="https://nuxtjs.org/"
             target="_blank"
@@ -24,7 +24,7 @@
           >
             GitHub
           </a>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>
